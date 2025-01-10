@@ -157,4 +157,20 @@ num2.sort();
 print("Order of number in this list is ascending $num2");
 var descending=List.from(num2.reversed);
 print("Order of number in this list is descending $descending");
+  List  numbers = [1,2,3,4,5,6,7,8,9,10];
+  for(int i = 0; i < numbers.length; i++){
+    if(numbers[i] % 2 == 0){
+    print(numbers[i]);
+    }
+  }
+ add();
+ 
  }
+
+add (){
+ int a=1;
+ int b=2;
+ num c= a +b;
+ print(c);
+
+}
