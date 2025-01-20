@@ -173,4 +173,6 @@ add (){
  num c= a +b;
  print(c);
 
+  List num1 = [1,23,5];
+print(num1);
 }
